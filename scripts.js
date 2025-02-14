@@ -1,4 +1,4 @@
-const scriptURL = "http://127.0.0.1:8082/https://script.google.com/macros/s/AKfycbzUMoOu-It_10UqEiIVs1b0KbXICSxG_WZ8oWGjjXaWk5ibFj2MBxUBYBDCX1M6UADVkg/exec";
+const scriptURL = "http://127.0.0.1:8082/https://script.google.com/macros/s/AKfycbwIbb05uYGMTGncZ6bWYL-6G_Ager7z5obx6U2HzF1QDTxUxfo6ynwvDU30Soq84Uhg_w/exec";
 
 let previousData = [];
 
